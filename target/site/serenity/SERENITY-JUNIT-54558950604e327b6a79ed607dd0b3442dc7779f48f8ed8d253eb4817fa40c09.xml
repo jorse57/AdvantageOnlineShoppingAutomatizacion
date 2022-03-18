@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="register new account and buy laptop" skipped="0" tests="1" time="1.02" timestamp="2022-03-10 03:22:34"><testcase name="Create new account"><error message="java.lang.AssertionError--&gt;java.lang.StackOverflowError--&gt;null" type="net.sf.cglib.core.CodeGenerationException">java.lang.AssertionError--&gt;java.lang.StackOverflowError--&gt;null</error><system-err>java.lang.AssertionError--&gt;java.lang.StackOverflowError--&gt;null&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
